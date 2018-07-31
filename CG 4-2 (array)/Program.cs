@@ -6,7 +6,12 @@ namespace CG_4_2__array_
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            
+
+
+
+
+
         }
     }
 }
