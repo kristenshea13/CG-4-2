@@ -6,7 +6,7 @@ namespace CG_4_2__array_
     {
         static void Main(string[] args)
         {
-            //name array, declare as integer and enter all numbers in array.
+            //name array, declare array entries as integers, note number of integers in array, and enter all numbers.
             int[] newArray = new int[6] { 1, 1, 2, 3, 5, 8 };
 
             //to copy each number into the variable "number" and then print it to the console.
